@@ -1,0 +1,27 @@
+Credentials cache: API:CF1819BD-16CC-454B-90DA-F7712D04670B
+        Principal: lrondia@S19.BE
+
+  Issued                Expires               Principal
+Nov  8 15:09:38 2021  Nov  9 01:09:38 2021  krbtgt/S19.BE@S19.BE
+
+
+Credentials cache: API:A93F9FEB-3DA0-4C79-AF3E-36ABA899208E
+        Principal: lrondia@S19.BE
+
+  Issued                Expires               Principal
+Nov  8 15:09:15 2021  Nov  9 01:09:15 2021  krbtgt/S19.BE@S19.BE
+
+
+Credentials cache: API:79A98449-983C-472C-833F-9C769DEB07DD
+        Principal: lrondia@S19.BE
+
+  Issued                Expires               Principal
+Nov  8 12:42:02 2021  Nov  8 22:42:02 2021  krbtgt/S19.BE@S19.BE
+
+
+Credentials cache: API:FA36FBEC-AC3B-4CD1-A311-F0420F22770C
+        Principal: lrondia@S19.BE
+
+  Issued                Expires               Principal
+Nov  8 10:47:49 2021  Nov  8 20:47:49 2021  krbtgt/S19.BE@S19.BE
+Nov  8 10:47:50 2021  Nov  8 20:47:49 2021  HTTP/san-ssd.s19.be@S19.BE
